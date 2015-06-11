@@ -2,5 +2,5 @@
 
 * [introduction](introduction.md)
 * [installation](installation.md)
-* certification
+* [certification](certification.md)
 
