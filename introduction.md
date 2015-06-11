@@ -6,9 +6,9 @@
 
 ## 講師
 
-[林彥宏](http://lyhcode.info)
+[林彥宏](http://lyhcode.info)（Kyle）
 
-Kyle Lin
+
 
 
 
