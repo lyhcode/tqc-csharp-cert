@@ -8,9 +8,9 @@ C# 與 Visual Studio C# 有何不同？
 
 ```
 .NET Applications
-
+        \
     Common Language Runtime
-
+            \
         Windows OS
 ```
 
