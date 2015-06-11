@@ -2,7 +2,7 @@
 
 適合準備認證考試的方式：
 
-* 安裝免費的「[Visual C# 2010 Express](https://www.visualstudio.com/downloads/download-visual-studio-vs#DownloadFamilies_4)」
+* 安裝免費的「[Visual C# 2010 Express](https://www.visualstudio.com/downloads/download-visual-studio-vs#DownloadFamilies_4)」<br/>適用 Windows 作業系統
 
 
 
