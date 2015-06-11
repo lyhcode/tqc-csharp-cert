@@ -6,7 +6,6 @@ C# 與 Visual Studio C# 有何不同？
 
 ## CLR, Common Language Runtime
 
-
 ```
 .NET Applications
         \
@@ -14,6 +13,8 @@ C# 與 Visual Studio C# 有何不同？
             \
         Windows OS
 ```
+
+動動腦：.NET 支援哪些程式語言？
 
 ## 進階的開發工具使用
 
