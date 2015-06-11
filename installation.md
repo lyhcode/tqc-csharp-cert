@@ -1,6 +1,13 @@
 # 安裝開發工具
 
-下載並安裝免費的「Visual C# 2010 Express」
+適合準備認證考試的方式：
 
-https://www.visualstudio.com/downloads/download-visual-studio-vs#DownloadFamilies_4
+* 安裝免費的「[Visual C# 2010 Express](https://www.visualstudio.com/downloads/download-visual-studio-vs#DownloadFamilies_4)」
 
+
+
+
+方便隨時練習的線上寫程式:
+
+* [C# Pad](http://csharppad.com/)
+* [Coding Ground](http://www.tutorialspoint.com/compile_csharp_online.php)
