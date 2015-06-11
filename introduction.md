@@ -6,9 +6,10 @@
 
 ## 講師
 
-[林彥宏](http://lyhcode.info)（Kyle）
+【[林彥宏](http://lyhcode.info)（Kyle）】
 
-
-
+* 創科資訊股份有限公司
+* 雲科大程式語言教學實驗室
+* 雲科大資管碩士班畢業
 
 
