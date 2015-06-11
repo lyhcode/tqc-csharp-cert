@@ -18,7 +18,7 @@ C# 與 Visual Studio C# 有何不同？
 
 問：.NET 支援哪些程式語言呢？
 
-## Microsoft Intermediate Language
+## Microsoft Intermediate Language Code
 
 簡稱 MSIL
 
