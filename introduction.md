@@ -6,7 +6,7 @@
 
 ## 講師
 
-![](lyhcode.png)
+![lyhcode](lyhcode.png)
 
 【[林彥宏](http://lyhcode.info)（Kyle）】
 
