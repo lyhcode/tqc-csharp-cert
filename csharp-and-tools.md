@@ -4,7 +4,9 @@ C# 與 Visual Studio C# 有何不同？
 
 語言 v.s. 工具
 
-## CLR, Common Language Runtime
+## Common Language Runtime
+
+簡稱 CLR
 
 ```
 .NET Applications
@@ -15,6 +17,12 @@ C# 與 Visual Studio C# 有何不同？
 ```
 
 問：.NET 支援哪些程式語言呢？
+
+## Microsoft Intermediate Language
+
+MSIL
+
+編譯為 Managed 程式碼時，編譯器會將您的原始程式碼轉譯成 Microsoft Intermediate Language (MSIL)，它是可以有效率地轉換為機器碼而與 CPU 無關的指令集。
 
 ## 進階的開發工具使用
 
