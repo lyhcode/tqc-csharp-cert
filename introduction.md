@@ -4,7 +4,7 @@
 
 使用 C# 程式語言
 
-## 講師
+## 作者
 
 ![lyhcode](lyhcode.png)
 
