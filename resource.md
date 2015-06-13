@@ -1,4 +1,4 @@
-# C# 學習資源
+# 學習資源
 
 * 微軟的「[C# 程式設計人員參考手冊](https://goo.gl/Gcbdso)」
 * 免費的「[C# 電子書](http://ebooks.programmersheaven.com/csharp_ebook.pdf)」
