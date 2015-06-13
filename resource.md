@@ -7,6 +7,6 @@
 
 C# 程式撰寫規範
 
-* [C# Coding Standards document](http://weblogs.asp.net/lhunt/CSharp-Coding-Standards-document)
-* [C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
+<!--* [C# Coding Standards document](http://weblogs.asp.net/lhunt/CSharp-Coding-Standards-document)-->
+* [C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx) (Microsoft)
 * [C# Coding Standards and Naming Conventions](http://www.dofactory.com/reference/csharp-coding-standards)
