@@ -7,5 +7,4 @@ C# 電子書
 http://ebooks.programmersheaven.com/csharp_ebook.pdf
 
 TQC+ C# 測驗題庫程式
-https://s3.amazonaws.com/readbook/TQCPLUS_CSHARP_DISC.zip
-
+https://s3-ap-northeast-1.amazonaws.com/readbook/TQCPLUS_CSHARP_DISC.zip
