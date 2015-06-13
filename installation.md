@@ -9,6 +9,7 @@
 
 * [Mono Project - C# Compiler](http://www.mono-project.com/docs/about-mono/languages/csharp/)
 * [MonoDevelop](http://www.monodevelop.com/)
+* [scriptcs](http://scriptcs.net/)
 
 方便隨時練習的線上寫程式:
 
