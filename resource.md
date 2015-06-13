@@ -8,3 +8,6 @@ http://ebooks.programmersheaven.com/csharp_ebook.pdf
 
 TQC+ C# 測驗題庫程式
 https://s3-ap-northeast-1.amazonaws.com/readbook/TQCPLUS_CSHARP_DISC.zip
+
+
+* [C# Coding Standards document](http://weblogs.asp.net/lhunt/CSharp-Coding-Standards-document)
