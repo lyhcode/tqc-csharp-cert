@@ -12,4 +12,4 @@ https://s3-ap-northeast-1.amazonaws.com/readbook/TQCPLUS_CSHARP_DISC.zip
 C# 程式撰寫規範
 
 * [C# Coding Standards document](http://weblogs.asp.net/lhunt/CSharp-Coding-Standards-document)
-* [C# Coding Conventions
+* [C# Coding Conventions](https://msdn.microsoft.com/en-us/library/ff926074.aspx)
