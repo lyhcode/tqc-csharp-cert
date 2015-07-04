@@ -15,7 +15,7 @@ PS. TQC+ 官方題庫書籍建議使用 2010，但也可以使用免費的 Visua
 
 * [scriptcs](http://scriptcs.net/)
 
-方便隨時練習的線上寫程式:
+這些免費的網路服務，可以在瀏覽器撰寫、執行 C# 程式，練習一些片段程式碼很方便。
 
 * [C# Pad](http://csharppad.com/)
 * [Coding Ground](http://www.tutorialspoint.com/compile_csharp_online.php)
