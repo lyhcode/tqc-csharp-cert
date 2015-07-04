@@ -18,7 +18,9 @@ C#（發音 C sharp）
 
 ![lyhcode](lyhcode.png)
 
-【[林彥宏](http://lyhcode.info)（Kyle）】
+Kyle （林彥宏）
+
+[lyhcode](http://lyhcode.info)
 
 TQC+ 軟體設計領域認證研習講師
 
