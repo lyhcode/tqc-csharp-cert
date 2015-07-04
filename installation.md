@@ -11,6 +11,8 @@ PS. TQC+ 官方題庫書籍建議使用 2010，但也可以使用免費的 Visua
 * [Mono Project - C# Compiler](http://www.mono-project.com/docs/about-mono/languages/csharp/)
 * [MonoDevelop](http://www.monodevelop.com/)
 
+還有，C# 也可以用 Scripting 方式執行！
+
 * [scriptcs](http://scriptcs.net/)
 
 方便隨時練習的線上寫程式:
