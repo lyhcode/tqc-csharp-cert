@@ -1,6 +1,6 @@
 # Summary
 
-* [TQC+ C# 認證解題秘笈](README.md)
+* [簡介](README.md)
 * [安裝開發工具](installation.md)
 * [認證介紹](certification.md)
 * [認識 C# 語言與工具](csharp-and-tools.md)
