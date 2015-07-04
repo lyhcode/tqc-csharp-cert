@@ -20,7 +20,7 @@ C#（發音 C sharp）
 
 Kyle （林彥宏）
 
-網路名片：[lyhcode](http://lyhcode.info)
+：[lyhcode.info](http://lyhcode.info)
 
 TQC+ 軟體設計領域認證研習講師
 
