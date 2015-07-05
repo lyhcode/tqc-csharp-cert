@@ -131,6 +131,8 @@ public class Hello4
 
 撰寫 `Hello.bat` 批次檔。
 
+練習：如果沒有參數，輸出「Hello, World!」；否則輸出「Hi {0}, nice to meet you.」
+
 ```
 @echo off
 Hello
