@@ -38,7 +38,9 @@ Using Command-line tools
 
 利用 Command-line 進行 C# 程式碼編譯
 
-透過這個小練習，我們讓同學們瞭解在沒有整合開發工具（IDE Tools）輔助的情況下，
+透過這個小練習，我們讓同學們瞭解，沒有整合開發工具（IDE Tools）輔助的情況下，如何完成 C# 程式碼的編譯。
+
+打開「命令提示字元」（又稱為終端機、Console 或 Terminal）
 
 先設定 `PATH` 環境變數：
 
