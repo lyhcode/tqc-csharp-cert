@@ -50,26 +50,42 @@ set PATH=%PATH%;C:\Windows\Microsoft.NET\Framework\v3.5
 
 撰寫程式：
 
-利用記事本或 `edit` 指令，完成一個最簡單的 C# 程式碼，輸出「`Hello World`」文字。
+利用記事本或 `edit` 指令，完成一個最簡單的 C# 程式碼，輸出「`Hello World`」文字，存檔命名為「`Hello.cs`」。
 
 編譯：
 
 ```
-csc /t:exe Program.cs
+csc /t:exe Hello.cs
 ```
 
 執行：
 
 ```
-Program.exe
+Hello.exe
 ```
 
+程式碼（一）
+
 ```
-public class Hello1
+public class Hello
 {
    public static void Main()
    {
       System.Console.WriteLine("Hello, World!");
+   }
+}
+```
+
+程式碼（一）
+
+```
+using System;
+
+public class Hello
+{
+   public static void Main()
+   {
+      Console.WriteLine("Hello, World!");
    }
 }
 ```
