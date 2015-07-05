@@ -115,7 +115,7 @@ public class Hello
 ```
 using System;
 
-public class Hello4
+public class Hello
 {
    public static int Main(string[] args)
    {
