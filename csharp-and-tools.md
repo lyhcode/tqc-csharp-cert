@@ -133,6 +133,7 @@ public class Hello4
 
 ```
 @echo off
+Hello
 Hello John
 pause
 ```
