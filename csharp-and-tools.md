@@ -48,6 +48,10 @@ Using Command-line tools
 set PATH=%PATH%;C:\Windows\Microsoft.NET\Framework\v3.5
 ```
 
+撰寫程式：
+
+利用記事本或 `edit` 指令，完成一個最簡單的 C# 程式碼，輸出「`Hello World`」文字。
+
 編譯：
 
 ```
