@@ -7,6 +7,7 @@ C#（發音 C sharp）
 * C# 擁有 C/C++ 的強大功能以及 Visual Basic 易寫易用的特性
 * 和 C++ 與 Java 一樣亦為物件導向（Object-Oriented）程式語言
 
+問：
 C# 與 Visual Studio C# 有何不同？
 
 語言 v.s. 工具
