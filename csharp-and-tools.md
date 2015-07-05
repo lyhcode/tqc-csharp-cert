@@ -76,7 +76,7 @@ public class Hello
 }
 ```
 
-程式碼（一）
+程式碼（二）
 
 ```
 using System;
