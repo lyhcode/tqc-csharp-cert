@@ -38,6 +38,8 @@ Using Command-line tools
 
 利用 Command-line 進行 C# 程式碼編譯
 
+透過這個小練習，我們讓同學們瞭解在沒有整合開發工具（IDE Tools）輔助的情況下，
+
 先設定 `PATH` 環境變數：
 
 ```
