@@ -128,3 +128,11 @@ public class Hello4
 取得程式執行結果代碼。
 
 `%ERRORLEVEL%`
+
+撰寫 `Hello.bat` 批次檔。
+
+```
+@echo off
+Hello John
+pause
+```
