@@ -89,3 +89,42 @@ public class Hello
    }
 }
 ```
+
+程式碼（三）
+
+```
+using System;
+
+public class Hello
+{
+   public static void Main(string[] args)
+   {
+      Console.WriteLine("Hello, World!");
+      Console.WriteLine("You entered the following {0} command line arguments:",
+         args.Length );
+      for (int i=0; i < args.Length; i++)
+      {
+         Console.WriteLine("{0}", args[i]); 
+      }
+   }
+}
+```
+
+程式碼（四）
+
+```
+using System;
+
+public class Hello4
+{
+   public static int Main(string[] args)
+   {
+      Console.WriteLine("Hello, World!");
+      return 0;
+   }
+}
+```
+
+取得程式執行結果代碼。
+
+`%ERRORLEVEL%`
