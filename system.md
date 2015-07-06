@@ -4,7 +4,8 @@
 
 使用操作題練習功能產生程式檔案
 
-C:\ANS.csf\CS01
+
+`C:\ANS.csf\CS01`
 
 * bin\
 * Properties\
