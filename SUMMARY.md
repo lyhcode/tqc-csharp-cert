@@ -3,7 +3,7 @@
 * [簡介](README.md)
 * [安裝開發工具](installation.md)
 * [認證介紹](certification.md)
-* [認識 C#](csharp-and-tools.md)
+* [認識 C# 程式語言](csharp-and-tools.md)
 * [認證研習課程大綱](course.md)
 * [認證題庫練習系統](system.md)
 * [第一類](project1.md)
