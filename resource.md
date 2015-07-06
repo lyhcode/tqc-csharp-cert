@@ -1,5 +1,6 @@
 # 學習資源
 
+* 微軟的「[C# 程式設計手冊](https://msdn.microsoft.com/zh-tw/library/67ef8sbd.aspx)」
 * 微軟的「[C# 程式設計人員參考手冊](https://goo.gl/Gcbdso)」
 * 免費的「[C# 電子書](http://ebooks.programmersheaven.com/csharp_ebook.pdf)」
 * [TQC+ C# 測驗題庫程式](https://s3-ap-northeast-1.amazonaws.com/readbook/TQCPLUS_CSHARP_DISC.zip
