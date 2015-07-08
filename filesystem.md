@@ -63,7 +63,6 @@ class Program
                             };
 
                             stocks.Add(stock);
-
                         }
                     }
                 }
