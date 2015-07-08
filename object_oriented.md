@@ -11,3 +11,44 @@
 3. 多型(Polymorphism)
 
    多型(Polymorphism) 代表能夠在執行階段，物件能夠依照不同情況變換資料型態，換句話說，多型是指一個物件參考可以在不同環境下，扮演不同角色的特性，指向不同的物件實體，可 透過實作多個繼承或介面來實現父類別，並使用Override或Overload來達成。
+   
+```
+class Person
+{
+    private int year;
+
+    public int Age
+    {
+        get { return 2015 - year; }
+        set { year = 2015 - value;  }
+    }
+
+    // setter
+    public void setYear(int year)
+    {
+        if (year < 2015)
+        {
+            this.year = year;
+        }
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+
+        Person john = new Person();
+
+        john.setYear(1988);
+
+        Console.WriteLine(john.Age);
+
+        john.Age = 35;
+
+        Console.WriteLine(john.Age);
+
+        Console.ReadKey();
+    }
+}
+```
