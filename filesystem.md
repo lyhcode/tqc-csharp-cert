@@ -1,5 +1,7 @@
 # 專案練習：股價查詢程式
 
+Terms
+
 * File System
 * Networking
 * LINQ
