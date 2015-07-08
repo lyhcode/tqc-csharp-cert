@@ -5,7 +5,7 @@
 * [認證介紹](certification.md)
 * [認證研習課程大綱](course.md)
 * [認識 C# 程式語言](csharp-and-tools.md)
-   * [object oriented](object_oriented.md)
+   * [物件導向](object_oriented.md)
    * [專案練習：股價查詢程式](filesystem.md)
 * [認證題庫練習系統](system.md)
 * [第一類](project1.md)
