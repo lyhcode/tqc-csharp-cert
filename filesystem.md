@@ -1,6 +1,7 @@
 # 專案練習：股價查詢程式
 
-* 檔案存取
+* File System
+* Networking
 * LINQ
 
 ## 程式碼
