@@ -3,7 +3,7 @@
 * File System
 * Networking
 * LINQ
-* String Processing
+* String Methods
 
 ## 程式碼
 
