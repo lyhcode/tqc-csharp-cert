@@ -1,6 +1,8 @@
 # File System
 
-C:\stock.txt
+
+
+stock.txt
 
 ```
 2317,鴻海
