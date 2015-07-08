@@ -5,7 +5,7 @@
 * [認證介紹](certification.md)
 * [認證研習課程大綱](course.md)
 * [認識 C# 程式語言](csharp-and-tools.md)
-   * object oriented
+   * [object oriented](object_oriented.md)
 * [認證題庫練習系統](system.md)
 * [第一類](project1.md)
    * [102、for 迴圈與平均值計算](102.md)
