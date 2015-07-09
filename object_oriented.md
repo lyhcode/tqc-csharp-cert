@@ -52,3 +52,80 @@ class Program
     }
 }
 ```
+
+
+
+## 動物
+
+```cs
+abstract class Animal
+{
+    private string name;
+
+    public Animal(string name)
+    {
+        this.name = name;
+    }
+
+    public void eat()
+    {
+        Console.WriteLine("{0} is eating.", name);
+    }
+}
+
+interface IPet
+{
+    void play();
+    void eat();
+}
+
+class Dog : Animal, IPet
+{
+    public Dog(string name) : base(name)
+    {
+    }
+
+    void IPet.play()
+    {
+        Console.WriteLine("汪");
+    }
+}
+
+class Cat : Animal, IPet
+{
+    public Cat(string name) : base(name)
+    {
+    }
+
+    void IPet.play()
+    {
+        Console.WriteLine("喵");
+    }
+}
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        //Animal a = new Animal("????");
+
+        List<IPet> list1 = new List<IPet>();
+
+        Dog dog1 = new Dog("doggy");
+
+        list1.Add(dog1);
+
+        Cat cat1 = new Cat("kitty");
+
+        list1.Add(cat1);
+
+        foreach (IPet pet in list1)
+        {
+            pet.eat();
+            pet.play();
+        }
+
+        Console.ReadKey();
+    }
+}
+```
