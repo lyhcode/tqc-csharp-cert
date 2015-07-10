@@ -14,5 +14,3 @@ TQC+ C# 認證研習（考前複習班）
 ## 問卷
 
 * [C# 認證研習課程問卷](http://goo.gl/forms/8EkNBp0hDG)
-
-
